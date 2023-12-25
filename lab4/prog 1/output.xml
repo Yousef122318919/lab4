@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<all>
+	<Wednesday type="list">
+		<item type="dict">
+			<period type="dict">
+				<time type="str">08:20-09:50</time>
+				<week type="str">3, 5, 9, 11, 13, 15, 17</week>
+			</period>
+			<place type="dict">
+				<room type="str">1216/0 ауд.</room>
+				<building type="str">Ломоносова пр., д.9, лит.М</building>
+			</place>
+			<class-info type="dict">
+				<lesson type="str">информатика</lesson>
+				<teacher type="str">Балакшин Павел Валерьевич</teacher>
+			</class-info>
+			<lesson-format type="str">Очно - дистанционный</lesson-format>
+		</item>
+	</Wednesday>
+f</all>

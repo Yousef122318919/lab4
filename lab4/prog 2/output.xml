@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<main>
+	<Wednesday>
+		<period>
+			<time>08:20-09:50</time>
+			<week>3, 5, 9, 11, 13, 15, 17</week>
+		</period>
+		<place>
+			<room>1216/0 ауд.</room>
+			<building>Ломоносова пр., д.9, лит.М</building>
+		</place>
+		<class-info>
+			<lesson>информатика</lesson>
+			<teacher>Балакшин Павел Валерьевич</teacher>
+		</class-info>
+		<lesson-format>Очно - дистанционный</lesson-format>
+	</Wednesday>
+</main>
